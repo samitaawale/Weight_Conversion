@@ -1,0 +1,21 @@
+#container{
+    width: 400px;
+    height: 200px;
+    margin: auto;
+  margin-top: 100px;
+    background-color: rgb(51, 134, 134);
+    padding-left: 30px;
+    padding-top: 20px;
+    color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+
+#pounds{
+    font-weight: bold;
+}
+#kilogram{
+    font-weight: bold;
+}
